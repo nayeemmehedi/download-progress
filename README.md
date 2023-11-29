@@ -1,6 +1,7 @@
-# download-progress
+## download-progress
 
-    // FetchComponent.js
+ // FetchComponent.js
+    
     import React, { useState } from 'react';
     import axios from 'axios';
     
